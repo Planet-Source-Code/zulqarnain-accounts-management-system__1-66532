@@ -1,0 +1,38 @@
+This is my first posting on PSC.
+
+I had to make a project on Accounts Management. I tried to find out examples over the internet but all the efforts were in vain. I couldn't find one (neither on PSC or A1VbCode or FrreeVbCode etc) which fulfil my needs.
+I decided to start on my own and eventually with in 15 hours I was able to develop this software.
+
+This code will teach about basic Accounting Terminologies and calculations that takes place.
+This code will also teach to use Data-Reports without Data Environment.
+
+I haven't made any Update or Delete panel.
+If you want to enter data from scratch do the following steps:
+1. Go to tbl_balancesheet, and update dr and cr fields to 0 explicitly
+2. Go to tbl_incomestatement. and update drcr field to 0.
+3. Go to tbl_acc_period_transaction and delete the record (if any).
+All entries will automatically be deleted from other tables as they are inter-linked.
+
+I am willing to increase this software more that would have all 8-Steps of Accounting Cycle in it which will include:
+User Login
+User Groups (Client/Server Architecture)
+Complete Accounting Cycle with closing.
+Update, Delete and Searhcing Features.
+More Accounting Reports.
+Etc.
+
+But I need your feedback, comments on it.
+Please post your feedbacks, comments, questions, queries, errors if found etc.
+If you have any query abt Accouting Calculations let me know.....
+And plz do RATE it.
+
+access pwd : zulqiscitsarani
+
+Thanks for your time nd patience.
+Regards.
+ZULQARNAIN SARANI.
+
+zulqarnain_sarani@yahoo.com
+zulqarnain_sarani@hotmail.com
+
+Plz ignore anything you dislike cuz its a 15 hour work.
